@@ -1,22 +1,24 @@
 Read Me 
 
 Backend
-
+=====================
 PostgreSQL needs to be installed and running - I started it from my Macbook PostgreSQL 12 dropdown option 'SQL shell (psql)'
 Postman used to test the backend before frontend was available
 
 Frontend
-
+=====================
 React frontend includes a simple todo list with a user input field and a table of todos below. User can edit and delete todos.
 JavaScript XML (JSX) used to write HTML elements in Javascript
 React Fragments used to show table of todos as a row with columns in the DOM 
 
 FrameWorks used 
+=====================
 Bookeeper
 React framework v16
 Bootstrap v4 component library 
 
 💾 Setup - Backend
+=====================
 
 Change to /server directory
 Install dependencies using npm i
@@ -28,12 +30,12 @@ Run nodemon server for a dev server
 http://localhost:5000/ can be accessed for CRUD operations such as POST, GET, PUT, DELETE etc. using Postman 
 
  Setup - Frontend
-
+=====================
 Change to /client directory
 Install dependencies using npm i.
 run npm start. Frontend will open at http://localhost:3000/ 
 
 👏 🔧 Inspiration/General Tools 
-
+=====================
 PERN Stack Course - PostgreSQL, Express, React and Node 
 Youtube video: How to Deploy a PERN application on Heroku
