@@ -2,7 +2,7 @@ Read Me
 
 Backend
 
-PostgreSQL needs to be installed and running - I started it from my Windows 10 PostgreSQL 12 dropdown option 'SQL shell (psql)'
+PostgreSQL needs to be installed and running - I started it from my Macbook PostgreSQL 12 dropdown option 'SQL shell (psql)'
 Postman used to test the backend before frontend was available
 
 Frontend
@@ -12,7 +12,7 @@ JavaScript XML (JSX) used to write HTML elements in Javascript
 React Fragments used to show table of todos as a row with columns in the DOM 
 
 FrameWorks used 
-
+Bookeeper
 React framework v16
 Bootstrap v4 component library 
 
