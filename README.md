@@ -37,5 +37,5 @@ run npm start. Frontend will open at http://localhost:3000/
 
 👏 🔧 Inspiration/General Tools 
 =====================
-PERN Stack Course - PostgreSQL, Express, React and Node 
+Youtube video: PERN Stack Course - PostgreSQL, Express, React and Node , 
 Youtube video: How to Deploy a PERN application on Heroku
